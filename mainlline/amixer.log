@@ -1,0 +1,4264 @@
+Simple mixer control 'DISPLAY_PORT_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'DISPLAY_PORT_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'DISPLAY_PORT_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'DISPLAY_PORT_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'DISPLAY_PORT_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'DISPLAY_PORT_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'DISPLAY_PORT_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'DISPLAY_PORT_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'HDMI Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'HDMI Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'HDMI Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'HDMI Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'HDMI Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'HDMI Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'HDMI Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'HDMI Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer PRIMARY_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer PRIMARY_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer PRIMARY_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer PRIMARY_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer PRIMARY_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer PRIMARY_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer PRIMARY_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer PRIMARY_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer PRI_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUAT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUAT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUAT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUAT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUAT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUAT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUAT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUAT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUAT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUIN_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUIN_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUIN_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUIN_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUIN_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUIN_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUIN_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUIN_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer QUIN_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SEC_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SEC_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SEC_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SEC_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SEC_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SEC_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SEC_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SEC_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SEC_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SLIMBUS_0_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SLIMBUS_1_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SLIMBUS_2_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SLIMBUS_3_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SLIMBUS_4_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SLIMBUS_5_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer SLIMBUS_6_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TERT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TERT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TERT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TERT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TERT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TERT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TERT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TERT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TERT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TX_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TX_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TX_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TX_CODEC_DMA_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TX_CODEC_DMA_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer TX_CODEC_DMA_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer VA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer VA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer VA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer WSA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer WSA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia1 Mixer WSA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer PRIMARY_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer PRIMARY_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer PRIMARY_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer PRIMARY_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer PRIMARY_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer PRIMARY_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer PRIMARY_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer PRIMARY_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer PRI_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUAT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUAT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUAT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUAT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUAT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUAT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUAT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUAT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUAT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUIN_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUIN_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUIN_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUIN_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUIN_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUIN_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUIN_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUIN_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer QUIN_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SEC_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SEC_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SEC_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SEC_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SEC_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SEC_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SEC_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SEC_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SEC_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SLIMBUS_0_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SLIMBUS_1_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SLIMBUS_2_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SLIMBUS_3_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SLIMBUS_4_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SLIMBUS_5_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer SLIMBUS_6_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TERT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TERT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TERT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TERT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TERT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TERT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TERT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TERT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TERT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TX_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TX_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TX_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TX_CODEC_DMA_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TX_CODEC_DMA_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer TX_CODEC_DMA_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer VA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer VA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer VA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer WSA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer WSA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia2 Mixer WSA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer PRIMARY_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer PRIMARY_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer PRIMARY_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer PRIMARY_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer PRIMARY_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer PRIMARY_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer PRIMARY_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer PRIMARY_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer PRI_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUAT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUAT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUAT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUAT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUAT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUAT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUAT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUAT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUAT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUIN_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUIN_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUIN_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUIN_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUIN_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUIN_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUIN_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUIN_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer QUIN_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SEC_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SEC_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SEC_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SEC_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SEC_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SEC_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SEC_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SEC_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SEC_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SLIMBUS_0_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SLIMBUS_1_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SLIMBUS_2_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SLIMBUS_3_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SLIMBUS_4_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SLIMBUS_5_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer SLIMBUS_6_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TERT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TERT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TERT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TERT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TERT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TERT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TERT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TERT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TERT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TX_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TX_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TX_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TX_CODEC_DMA_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TX_CODEC_DMA_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer TX_CODEC_DMA_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer VA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer VA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer VA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer WSA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer WSA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia3 Mixer WSA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer PRIMARY_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer PRIMARY_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer PRIMARY_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer PRIMARY_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer PRIMARY_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer PRIMARY_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer PRIMARY_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer PRIMARY_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer PRI_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUAT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUAT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUAT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUAT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUAT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUAT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUAT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUAT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUAT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUIN_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUIN_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUIN_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUIN_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUIN_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUIN_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUIN_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUIN_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer QUIN_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SEC_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SEC_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SEC_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SEC_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SEC_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SEC_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SEC_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SEC_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SEC_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SLIMBUS_0_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SLIMBUS_1_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SLIMBUS_2_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SLIMBUS_3_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SLIMBUS_4_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SLIMBUS_5_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer SLIMBUS_6_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TERT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TERT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TERT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TERT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TERT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TERT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TERT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TERT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TERT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TX_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TX_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TX_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TX_CODEC_DMA_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TX_CODEC_DMA_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer TX_CODEC_DMA_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer VA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer VA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer VA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer WSA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer WSA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia4 Mixer WSA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer PRIMARY_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer PRIMARY_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer PRIMARY_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer PRIMARY_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer PRIMARY_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer PRIMARY_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer PRIMARY_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer PRIMARY_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer PRI_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUAT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUAT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUAT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUAT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUAT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUAT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUAT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUAT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUAT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUIN_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUIN_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUIN_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUIN_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUIN_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUIN_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUIN_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUIN_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer QUIN_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SEC_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SEC_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SEC_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SEC_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SEC_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SEC_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SEC_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SEC_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SEC_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SLIMBUS_0_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SLIMBUS_1_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SLIMBUS_2_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SLIMBUS_3_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SLIMBUS_4_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SLIMBUS_5_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer SLIMBUS_6_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TERT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TERT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TERT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TERT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TERT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TERT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TERT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TERT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TERT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TX_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TX_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TX_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TX_CODEC_DMA_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TX_CODEC_DMA_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer TX_CODEC_DMA_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer VA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer VA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer VA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer WSA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer WSA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia5 Mixer WSA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer PRIMARY_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer PRIMARY_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer PRIMARY_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer PRIMARY_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer PRIMARY_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer PRIMARY_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer PRIMARY_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer PRIMARY_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer PRI_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUAT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUAT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUAT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUAT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUAT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUAT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUAT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUAT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUAT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUIN_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUIN_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUIN_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUIN_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUIN_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUIN_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUIN_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUIN_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer QUIN_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SEC_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SEC_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SEC_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SEC_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SEC_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SEC_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SEC_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SEC_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SEC_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SLIMBUS_0_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SLIMBUS_1_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SLIMBUS_2_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SLIMBUS_3_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SLIMBUS_4_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SLIMBUS_5_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer SLIMBUS_6_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TERT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TERT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TERT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TERT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TERT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TERT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TERT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TERT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TERT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TX_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TX_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TX_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TX_CODEC_DMA_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TX_CODEC_DMA_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer TX_CODEC_DMA_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer VA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer VA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer VA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer WSA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer WSA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia6 Mixer WSA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer PRIMARY_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer PRIMARY_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer PRIMARY_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer PRIMARY_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer PRIMARY_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer PRIMARY_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer PRIMARY_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer PRIMARY_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer PRI_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUAT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUAT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUAT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUAT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUAT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUAT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUAT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUAT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUAT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUIN_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUIN_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUIN_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUIN_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUIN_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUIN_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUIN_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUIN_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer QUIN_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SEC_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SEC_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SEC_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SEC_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SEC_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SEC_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SEC_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SEC_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SEC_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SLIMBUS_0_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SLIMBUS_1_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SLIMBUS_2_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SLIMBUS_3_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SLIMBUS_4_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SLIMBUS_5_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer SLIMBUS_6_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TERT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TERT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TERT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TERT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TERT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TERT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TERT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TERT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TERT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TX_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TX_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TX_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TX_CODEC_DMA_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TX_CODEC_DMA_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer TX_CODEC_DMA_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer VA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer VA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer VA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer WSA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer WSA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia7 Mixer WSA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer PRIMARY_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer PRIMARY_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer PRIMARY_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer PRIMARY_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer PRIMARY_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer PRIMARY_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer PRIMARY_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer PRIMARY_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer PRI_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUAT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUAT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUAT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUAT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUAT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUAT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUAT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUAT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUAT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUIN_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUIN_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUIN_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUIN_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUIN_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUIN_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUIN_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUIN_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer QUIN_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SEC_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SEC_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SEC_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SEC_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SEC_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SEC_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SEC_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SEC_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SEC_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SLIMBUS_0_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SLIMBUS_1_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SLIMBUS_2_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SLIMBUS_3_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SLIMBUS_4_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SLIMBUS_5_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer SLIMBUS_6_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TERT_MI2S_TX',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TERT_TDM_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TERT_TDM_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TERT_TDM_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TERT_TDM_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TERT_TDM_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TERT_TDM_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TERT_TDM_TX_6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TERT_TDM_TX_7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TX_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TX_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TX_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TX_CODEC_DMA_TX_3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TX_CODEC_DMA_TX_4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer TX_CODEC_DMA_TX_5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer VA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer VA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer VA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer WSA_CODEC_DMA_TX_0',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer WSA_CODEC_DMA_TX_1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'MultiMedia8 Mixer WSA_CODEC_DMA_TX_2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_0 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [on]
+Simple mixer control 'PRIMARY_TDM_RX_0 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_0 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_0 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_0 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_0 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_0 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_0 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_1 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_1 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_1 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_1 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_1 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_1 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_1 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_1 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_2 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_2 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_2 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_2 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_2 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_2 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_2 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_2 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_3 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_3 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_3 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_3 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_3 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_3 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_3 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_3 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_4 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_4 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_4 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_4 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_4 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_4 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_4 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_4 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_5 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_5 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_5 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_5 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_5 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_5 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_5 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_5 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_6 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_6 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_6 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_6 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_6 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_6 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_6 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_6 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_7 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_7 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_7 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_7 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_7 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_7 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_7 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRIMARY_TDM_RX_7 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRI_MI2S_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRI_MI2S_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRI_MI2S_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRI_MI2S_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRI_MI2S_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRI_MI2S_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRI_MI2S_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'PRI_MI2S_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_MI2S_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_MI2S_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_MI2S_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_MI2S_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_MI2S_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_MI2S_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_MI2S_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_MI2S_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_0 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_0 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_0 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_0 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_0 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_0 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_0 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_0 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_1 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_1 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_1 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_1 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_1 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_1 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_1 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_1 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_2 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_2 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_2 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_2 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_2 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_2 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_2 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_2 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_3 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_3 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_3 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_3 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_3 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_3 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_3 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_3 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_4 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_4 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_4 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_4 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_4 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_4 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_4 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_4 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_5 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_5 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_5 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_5 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_5 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_5 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_5 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_5 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_6 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_6 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_6 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_6 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_6 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_6 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_6 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_6 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_7 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_7 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_7 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_7 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_7 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_7 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_7 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUAT_TDM_RX_7 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_MI2S_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_MI2S_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_MI2S_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_MI2S_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_MI2S_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_MI2S_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_MI2S_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_MI2S_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_0 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_0 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_0 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_0 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_0 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_0 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_0 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_0 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_1 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_1 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_1 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_1 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_1 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_1 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_1 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_1 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_2 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_2 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_2 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_2 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_2 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_2 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_2 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_2 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_3 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_3 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_3 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_3 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_3 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_3 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_3 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_3 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_4 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_4 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_4 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_4 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_4 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_4 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_4 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_4 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_5 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_5 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_5 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_5 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_5 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_5 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_5 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_5 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_6 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_6 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_6 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_6 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_6 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_6 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_6 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_6 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_7 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_7 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_7 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_7 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_7 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_7 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_7 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'QUIN_TDM_RX_7 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_0 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_0 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_0 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_0 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_0 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_0 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_0 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_0 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_1 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_1 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_1 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_1 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_1 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_1 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_1 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_1 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_2 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_2 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_2 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_2 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_2 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_2 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_2 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_2 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_3 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_3 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_3 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_3 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_3 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_3 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_3 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_3 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_4 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_4 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_4 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_4 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_4 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_4 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_4 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_4 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_5 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_5 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_5 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_5 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_5 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_5 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_5 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_5 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_6 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_6 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_6 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_6 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_6 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_6 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_6 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_6 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_7 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_7 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_7 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_7 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_7 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_7 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_7 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'RX_CODEC_DMA_RX_7 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_MI2S_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_MI2S_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_MI2S_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_MI2S_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_MI2S_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_MI2S_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_MI2S_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_MI2S_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_0 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_0 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_0 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_0 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_0 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_0 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_0 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_0 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_1 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_1 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_1 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_1 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_1 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_1 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_1 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_1 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_2 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_2 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_2 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_2 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_2 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_2 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_2 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_2 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_3 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_3 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_3 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_3 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_3 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_3 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_3 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_3 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_4 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_4 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_4 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_4 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_4 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_4 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_4 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_4 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_5 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_5 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_5 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_5 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_5 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_5 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_5 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_5 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_6 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_6 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_6 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_6 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_6 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_6 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_6 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_6 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_7 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_7 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_7 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_7 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_7 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_7 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_7 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SEC_TDM_RX_7 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_0_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_0_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_0_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_0_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_0_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_0_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_0_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_0_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_1_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_1_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_1_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_1_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_1_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_1_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_1_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_1_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_2_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_2_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_2_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_2_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_2_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_2_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_2_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_2_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_3_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_3_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_3_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_3_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_3_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_3_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_3_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_3_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_4_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_4_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_4_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_4_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_4_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_4_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_4_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_4_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_5_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_5_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_5_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_5_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_5_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_5_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_5_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_5_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_6_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_6_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_6_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_6_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_6_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_6_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_6_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SLIMBUS_6_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'SPK1 AMP Enable',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [on]
+Simple mixer control 'SPK1 ASP_TX1 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'VDD_BATTMON' 'VDD_BSTMON' 'DSP_TX1' 'DSP_TX2' 'Interpolator' 'IL_TARGET'
+  Item0: 'Zero'
+Simple mixer control 'SPK1 ASP_TX2 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'VDD_BATTMON' 'VDD_BSTMON' 'DSP_TX1' 'DSP_TX2' 'Interpolator' 'IL_TARGET'
+  Item0: 'Zero'
+Simple mixer control 'SPK1 ASP_TX3 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'VDD_BATTMON' 'VDD_BSTMON' 'DSP_TX1' 'DSP_TX2' 'Interpolator' 'IL_TARGET'
+  Item0: 'Zero'
+Simple mixer control 'SPK1 ASP_TX4 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'VDD_BATTMON' 'VDD_BSTMON' 'DSP_TX1' 'DSP_TX2' 'Interpolator' 'IL_TARGET'
+  Item0: 'Zero'
+Simple mixer control 'SPK1 ASP_TX5 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'VDD_BATTMON' 'VDD_BSTMON' 'DSP_TX1' 'DSP_TX2' 'Interpolator' 'IL_TARGET'
+  Item0: 'IL_TARGET'
+Simple mixer control 'SPK1 Amplifier Mode',0
+  Capabilities: enum
+  Items: 'SPK' 'RCV'
+  Item0: 'SPK'
+Simple mixer control 'SPK1 Analog PCM',0
+  Capabilities: volume volume-joined
+  Playback channels: Mono
+  Capture channels: Mono
+  Limits: 0 - 3
+  Mono: 3 [100%] [19.00dB]
+Simple mixer control 'SPK1 DACPCM Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'DSP_TX1' 'DSP_TX2'
+  Item0: 'DSP_TX1'
+Simple mixer control 'SPK1 DSP1 Firmware',0
+  Capabilities: enum
+  Items: 'MBC/VSS' 'MasterHiFi' 'Tx' 'Tx Speaker' 'Rx' 'Rx ANC' 'Voice Ctrl' 'ASR Assist' 'Dbg Trace' 'Protection' 'Calibration' 'Diagnostic' 'Misc'
+  Item0: 'Protection'
+Simple mixer control 'SPK1 DSP1 Preload',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [on]
+Simple mixer control 'SPK1 DSP_RX1 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'ASP_RX1'
+Simple mixer control 'SPK1 DSP_RX2 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'ASP_RX2'
+Simple mixer control 'SPK1 DSP_RX3 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'VMON'
+Simple mixer control 'SPK1 DSP_RX4 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'IMON'
+Simple mixer control 'SPK1 DSP_RX5 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'VDD_BATTMON'
+Simple mixer control 'SPK1 DSP_RX6 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'VDD_BSTMON'
+Simple mixer control 'SPK1 DSP_RX7 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'CLASSH_TGT'
+Simple mixer control 'SPK1 DSP_RX8 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'VDD_BATTMON'
+Simple mixer control 'SPK1 Digital PCM',0
+  Capabilities: volume volume-joined
+  Playback channels: Mono
+  Capture channels: Mono
+  Limits: 0 - 457
+  Mono: 435 [95%] [6.50dB]
+Simple mixer control 'SPK2 AMP Enable',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [on]
+Simple mixer control 'SPK2 ASP_TX1 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'VDD_BATTMON' 'VDD_BSTMON' 'DSP_TX1' 'DSP_TX2' 'Interpolator' 'IL_TARGET'
+  Item0: 'Zero'
+Simple mixer control 'SPK2 ASP_TX2 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'VDD_BATTMON' 'VDD_BSTMON' 'DSP_TX1' 'DSP_TX2' 'Interpolator' 'IL_TARGET'
+  Item0: 'Zero'
+Simple mixer control 'SPK2 ASP_TX3 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'VDD_BATTMON' 'VDD_BSTMON' 'DSP_TX1' 'DSP_TX2' 'Interpolator' 'IL_TARGET'
+  Item0: 'Zero'
+Simple mixer control 'SPK2 ASP_TX4 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'VDD_BATTMON' 'VDD_BSTMON' 'DSP_TX1' 'DSP_TX2' 'Interpolator' 'IL_TARGET'
+  Item0: 'Zero'
+Simple mixer control 'SPK2 ASP_TX5 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'VDD_BATTMON' 'VDD_BSTMON' 'DSP_TX1' 'DSP_TX2' 'Interpolator' 'IL_TARGET'
+  Item0: 'IL_TARGET'
+Simple mixer control 'SPK2 Amplifier Mode',0
+  Capabilities: enum
+  Items: 'SPK' 'RCV'
+  Item0: 'SPK'
+Simple mixer control 'SPK2 Analog PCM',0
+  Capabilities: volume volume-joined
+  Playback channels: Mono
+  Capture channels: Mono
+  Limits: 0 - 3
+  Mono: 3 [100%] [19.00dB]
+Simple mixer control 'SPK2 DACPCM Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'DSP_TX1' 'DSP_TX2'
+  Item0: 'DSP_TX1'
+Simple mixer control 'SPK2 DSP1 Firmware',0
+  Capabilities: enum
+  Items: 'MBC/VSS' 'MasterHiFi' 'Tx' 'Tx Speaker' 'Rx' 'Rx ANC' 'Voice Ctrl' 'ASR Assist' 'Dbg Trace' 'Protection' 'Calibration' 'Diagnostic' 'Misc'
+  Item0: 'Protection'
+Simple mixer control 'SPK2 DSP1 Preload',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [on]
+Simple mixer control 'SPK2 DSP_RX1 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'ASP_RX1'
+Simple mixer control 'SPK2 DSP_RX2 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'ASP_RX2'
+Simple mixer control 'SPK2 DSP_RX3 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'VMON'
+Simple mixer control 'SPK2 DSP_RX4 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'IMON'
+Simple mixer control 'SPK2 DSP_RX5 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'VDD_BATTMON'
+Simple mixer control 'SPK2 DSP_RX6 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'VDD_BSTMON'
+Simple mixer control 'SPK2 DSP_RX7 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'CLASSH_TGT'
+Simple mixer control 'SPK2 DSP_RX8 Source',0
+  Capabilities: enum
+  Items: 'Zero' 'ASP_RX1' 'ASP_RX2' 'VMON' 'IMON' 'ERR_VOL' 'CLASSH_TGT' 'VDD_BATTMON' 'VDD_BSTMON' 'TEMPMON'
+  Item0: 'VDD_BATTMON'
+Simple mixer control 'SPK2 Digital PCM',0
+  Capabilities: volume volume-joined
+  Playback channels: Mono
+  Capture channels: Mono
+  Limits: 0 - 457
+  Mono: 409 [89%] [0.00dB]
+Simple mixer control 'TERT_MI2S_RX Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_MI2S_RX Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_MI2S_RX Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_MI2S_RX Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_MI2S_RX Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_MI2S_RX Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_MI2S_RX Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_MI2S_RX Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_0 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_0 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_0 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_0 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_0 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_0 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_0 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_0 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_1 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_1 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_1 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_1 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_1 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_1 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_1 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_1 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_2 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_2 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_2 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_2 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_2 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_2 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_2 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_2 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_3 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_3 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_3 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_3 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_3 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_3 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_3 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_3 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_4 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_4 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_4 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_4 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_4 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_4 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_4 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_4 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_5 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_5 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_5 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_5 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_5 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_5 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_5 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_5 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_6 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_6 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_6 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_6 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_6 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_6 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_6 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_6 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_7 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_7 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_7 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_7 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_7 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_7 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_7 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'TERT_TDM_RX_7 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_0 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_0 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_0 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_0 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_0 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_0 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_0 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_0 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_1 Audio Mixer MultiMedia1',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_1 Audio Mixer MultiMedia2',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_1 Audio Mixer MultiMedia3',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_1 Audio Mixer MultiMedia4',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_1 Audio Mixer MultiMedia5',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_1 Audio Mixer MultiMedia6',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_1 Audio Mixer MultiMedia7',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
+Simple mixer control 'WSA_CODEC_DMA_RX_1 Audio Mixer MultiMedia8',0
+  Capabilities: pswitch pswitch-joined
+  Playback channels: Mono
+  Mono: Playback [off]
